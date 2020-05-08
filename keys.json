@@ -1,21 +1,21 @@
 {
-    "version": "0.0.42",
+    "version": "0.0.43",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/gabriel/keysd/releases/download/v0.0.42/keys_0.0.42_windows_i386.tar.gz",
+            "url": "https://github.com/gabriel/keysd/releases/download/v0.0.43/keys_0.0.43_windows_i386.tar.gz",
             "bin": [
                 "keys.exe",
                 "keysd.exe"
             ],
-            "hash": "a9ad54390f5343a0d92b13d8300044d809072253ec3f50ae4b40ecbd06d2d0c4"
+            "hash": "80e1c9aede4e2050cf5b491de8073077881d79a803097fb224b1145ea55c2f60"
         },
         "64bit": {
-            "url": "https://github.com/gabriel/keysd/releases/download/v0.0.42/keys_0.0.42_windows_x86_64.tar.gz",
+            "url": "https://github.com/gabriel/keysd/releases/download/v0.0.43/keys_0.0.43_windows_x86_64.tar.gz",
             "bin": [
                 "keys.exe",
                 "keysd.exe"
             ],
-            "hash": "345b168624979cc37d4e3614ebd4a63191194ad83572c379b2f4a3889add597d"
+            "hash": "09238d05eab8180a6cb9c3f2d17442614e58ad1de7e74e07ea942bd994c26560"
         }
     },
     "homepage": "https://keys.pub",
